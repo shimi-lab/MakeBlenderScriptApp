@@ -164,7 +164,7 @@ else:
         Belnder2.93.4で動作確認済み
         
         ### ギャラリー
-        右上のメニューのAboutからBlenderのギャラリーを見ることができます
+        https://shimi-lab.github.io/GRRMPY_document/src/blender_gallery.html
         
         ### 使い方
         """
