@@ -158,7 +158,7 @@ else:
     st.title("Blender用Pythonスクリプト作成")
     st.markdown(
         """
-        ### じめに
+        ### はじめに
         左のサイドバーに構造ファイルをドラック＆ドロップ
         
         Belnder2.93.4で動作確認済み
