@@ -21,7 +21,7 @@ def make_animation_kwargs(structure,index_list=None,view_index=False,multi_struc
 st.set_page_config(
     page_title="Blender用Pythonスクリプト作成",
     page_icon="./logo.png",
-    menu_items={'About': 'https://kt19906.github.io/GRRMPY/src/blender_gallery.html'})
+    menu_items={'About': 'https://shimi-lab.github.io/GRRMPY_document/src/blender_gallery.html'})
 widgets = Widgets()
 widgets.structure_file_upload_widgets()
 
