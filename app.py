@@ -180,6 +180,24 @@ else:
     st.write("3Dビューポートに戻る.シェダーに切り替えると色がついていることを確認できる")
     st.image("img/finish.png") 
     st.write("カメラとライトを設定し,レンダリングする")
+    st.markdown(
+        """
+        ### Renderについて
+        Cartoonを適用すると,漫画風にレンダリングすることができる.<br>
+        Subdivistionを適用すると,球(原子)が表面がより滑らかになる<br>
+        *どちらの項目もこのアプリ上での変化は起きない* """)
+    st.image("img/Render.png") 
+    st.markdown(
+        """
+        #### Cartoon
+        Cartoonにチェックを入れた場合,原子の色はShadingから変更することができる.<br>
+        (マテリアルプロパティーから変更することができない)
+        """)
+    st.image("img/Shading.png") 
+    st.write("ミックスの色1で原子の色,色2で枠線の色を変えることができる.")
+    st.write("IOR値を変えることで枠線の太さを変えることができる")
+    st.image("img/Node.png") 
+    
     
     
     
