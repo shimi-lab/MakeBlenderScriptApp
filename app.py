@@ -183,14 +183,16 @@ else:
     st.markdown(
         """
         ### Renderについて
-        Cartoonを適用すると,漫画風にレンダリングすることができる.<br />
-        Subdivistionを適用すると,球(原子)が表面がより滑らかになる<br />
+        Cartoonを適用すると,漫画風にレンダリングすることができる.
+        
+        Subdivistionを適用すると,球(原子)が表面がより滑らかになる
         **どちらの項目もこのアプリ上での変化は起きない** """)
     st.image("img/Render.png") 
     st.markdown(
         """
         #### Cartoon
-        Cartoonにチェックを入れた場合,原子の色はShadingから変更することができる.<br />
+        Cartoonにチェックを入れた場合,原子の色はShadingから変更することができる.
+        
         (マテリアルプロパティーから変更することができない)
         """)
     st.image("img/Shading.png") 
