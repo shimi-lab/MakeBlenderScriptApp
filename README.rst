@@ -2,6 +2,8 @@
 化学構造をBlender上にインポートするためのWebアプリ
 ===================================================
 
+`アプリはこちらから <https://shimi-lab-makeblenderscriptapp-app-vrendi.streamlit.app/>`_
+
 使い方
 =========
     
